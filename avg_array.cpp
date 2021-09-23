@@ -1,0 +1,1 @@
+//write a Program to calculate average of all  the elements in an array//
